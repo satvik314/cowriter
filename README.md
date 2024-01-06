@@ -22,7 +22,7 @@ git clone https://github.com/satvik314/cowriter.git
 cd cowriter
 ```
 
-### 3. Add Replicate Key and OpenAI Key to ```secrets.toml```
+### 3. Add OpenAI Key to ```secrets.toml```
 ```bash
 OPENAI_API_KEY = <"your_token">
 ```
