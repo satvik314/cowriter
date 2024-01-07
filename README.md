@@ -2,11 +2,11 @@
 
 by [Satvik](https://www.linkedin.com/in/satvik-paramkusham/)
 
-An interesting game which lets you write stories with AI. 
+An interesting game that lets you write stories with AI.
 
-You write a line and then AI write the next and so on!
+You write a line, and then the AI writes the next, and so on!
 
-You will need an API key from OpenAI to run this application.
+You can run the app with local LLMs without internet! (also works with GPT models!)
 
 ## Getting Started
 
