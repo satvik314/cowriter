@@ -22,9 +22,14 @@ git clone https://github.com/satvik314/cowriter.git
 cd cowriter
 ```
 
-### 3. Add OpenAI Key to ```secrets.toml```
+### 3.1. (For GPT model) Add OpenAI Key to ```secrets.toml```
 ```bash
 OPENAI_API_KEY = <"your_token">
+```
+
+### 3.2. (For local model) Install Ollama and run the below command
+```bash
+ollama run dolphin-phi
 ```
 
 ### 4. Install required Python libraries
